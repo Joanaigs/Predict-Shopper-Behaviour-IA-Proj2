@@ -5,7 +5,7 @@
 - [] definition of the training and test sets
 - [] selection and parameterization of the learning algorithms to employ
     - [x] decision tree
-    - [] k-nearest neighbors
+    - [x] k-nearest neighbors
     - [] neural network
     - [] support vector machine(SVM)
 - [] evaluation of the learning process
