@@ -1,6 +1,6 @@
 ## How to run
 
-* Download the dataset and add it to the **dataset** directory (https://archive.ics.uci.edu/ml/machine-learning-databases/00468/)
+* If you want, you can download a new dataset and exchange it with the one on the **dataset** directory (https://archive.ics.uci.edu/ml/machine-learning-databases/00468/)
 * Install the necessary libraries:
     * NumPy
     * Pandas
