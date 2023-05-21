@@ -13,12 +13,11 @@
 
 * You are ready to run the notebook!
     
-
-All the cells already have the output underneath. If you choose to run keep in mind that the commented cells take to long to run and are not necessary. This are the GridSearch to find the best parameters and the creation of the features graph. To be able run the classification algorithms you need to run everything, but the plots, in the data analysis and everything in the data pre-processing.
+All the cells already have the output underneath. If you choose to run, keep in mind that the commented cells take very long to run and are not necessary. Especially the GridSearch code block, that finds the best parameters, and the creation of the features graphs. To be able to run the classification algorithms you need to run everything that is part of the data analysis and the data pre-processing, except the plots.
 
 
 Turma 9 Grupo 94
 
-Joana Santos, up202006279
-Mafalda Costa, up202006417
-Mariana Carvalho, up202007620
+- Joana Santos, up202006279
+- Mafalda Costa, up202006417
+- Mariana Carvalho, up202007620
