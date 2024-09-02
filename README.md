@@ -1,3 +1,6 @@
+
+# Predict Shopper Behaviour
+
 ## How to run
 
 * If you want, you can download a new dataset and exchange it with the one on the **dataset** directory (https://archive.ics.uci.edu/ml/machine-learning-databases/00468/)
